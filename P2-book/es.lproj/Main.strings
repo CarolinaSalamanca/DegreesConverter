@@ -1,0 +1,36 @@
+
+/* Class = "UILabel"; text = "???"; ObjectID = "7r9-Fv-1Y3"; */
+"7r9-Fv-1Y3.text" = "???";
+
+/* Class = "UITabBarItem"; title = "Convert"; ObjectID = "C1V-YB-JoS"; */
+"C1V-YB-JoS.title" = "Convert";
+
+/* Class = "UITabBarItem"; title = "Map"; ObjectID = "FNz-lw-WQy"; */
+"FNz-lw-WQy.title" = "Mapa";
+
+/* Class = "UILabel"; text = "degrees Celsius"; ObjectID = "IkB-fH-VgL"; */
+"IkB-fH-VgL.text" = "grados Celsius";
+
+/* Class = "UITextField"; placeholder = "Value"; ObjectID = "Wzu-E1-eZg"; */
+"Wzu-E1-eZg.placeholder" = "Valor";
+
+/* Class = "UIButton"; normalTitle = "Next Question"; ObjectID = "XhV-gc-9wW"; */
+"XhV-gc-9wW.normalTitle" = "Siguiente pregunta";
+
+/* Class = "UIButton"; normalTitle = "Show Answer"; ObjectID = "kay-dd-W5d"; */
+"kay-dd-W5d.normalTitle" = "mostrar respuesta";
+
+/* Class = "UILabel"; text = "100"; ObjectID = "ksj-Vj-LQ5"; */
+"ksj-Vj-LQ5.text" = "100";
+
+/* Class = "UILabel"; text = "Degrees Farenheit"; ObjectID = "oDj-Jm-XwN"; */
+"oDj-Jm-XwN.text" = "Grados Farenheit";
+
+/* Class = "UILabel"; text = "is really"; ObjectID = "vcM-TS-6gI"; */
+"vcM-TS-6gI.text" = "es en realidad";
+
+/* Class = "UITabBarItem"; title = "Quiz"; ObjectID = "zK5-YL-SVi"; */
+"zK5-YL-SVi.title" = "Quiz";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "zfr-Ws-MXj"; */
+"zfr-Ws-MXj.text" = "Label";
